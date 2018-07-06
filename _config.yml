@@ -1,14 +1,14 @@
 # Site settings
 title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+description:    "100 days of ML Code"
+baseurl:        ""
+url:            "https://https://devyohan.github.io/100_Days_of_ML_Code/"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Yohan Park (DevYohan)
+  url:          https://www.devyohan.io
+  email:        devyohans@gmail.com
 
 # Build settings
 markdown:       kramdown
