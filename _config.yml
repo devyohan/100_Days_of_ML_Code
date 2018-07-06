@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          "DevYohan's 100 days of ML Code"
 description:    "100 days of ML Code"
 baseurl:        "/100_Days_of_ML_Code"
 url:            "https://devyohan.github.io"
